@@ -1,4 +1,4 @@
-# Este repositorio está compartilhado com;
+# Este repositorio está compartilhado com:
 ## Rian
 ## Daniel
 ## Giovanna
